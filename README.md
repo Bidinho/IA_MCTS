@@ -7,7 +7,7 @@ This project is an MCTS implementation on the TIC-TAC-TOE game using JAVA, devel
 
 + Open a directory where you would like to store the project.
 + Open a terminal window on that directory.
-+ Run `git clone https://github.com/Galimbor/IA_LAB_4.git`.
++ Run `git clone https://github.com/Galimbor/IA_MCTS_4.git`.
 + Open IntelliJ IDEA.
 + Install git and github* plugins and restart IntelliJ.
 + Open -> IA_LAB_4    You're going to work here.
