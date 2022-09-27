@@ -1,6 +1,6 @@
-# Artificial Inteligence Subject - 4th Project 
+# Artificial Intelligence Subject - 4th Project 
 
-## Descrição
+## Description
 This project is an MCTS implementation on the TIC-TAC-TOE game using JAVA, developed for the subject of Artifical Inteligente belonging to the bachelors degree of Informatic Engineering.
 
 ## How to start working on the project and get it running
