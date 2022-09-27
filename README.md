@@ -7,9 +7,9 @@ This project is an MCTS implementation on the TIC-TAC-TOE game using JAVA, devel
 
 + Open a directory where you would like to store the project.
 + Open a terminal window on that directory.
-+ Run `git clone https://github.com/Galimbor/IA_MCTS.git`.
++ Run `git clone https://github.com/rjcorreia/IA_MCTS.git`.
 + Open IntelliJ IDEA.
-+ Install git and github* plugins and restart IntelliJ.
++ Install git and github plugins and restart IntelliJ.
 + Open -> IA_MCTS    You're going to work here.
 + Click on the blue arrow the upload the remote project into yours.
 + Go to VCS -> Git -> Branches... -> + New Branch -> Enter the name of your branch and create.
